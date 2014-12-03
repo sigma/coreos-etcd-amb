@@ -1,4 +1,4 @@
-FROM sigma/simple-amb
+FROM sigma/simple-amb:0.1
 MAINTAINER Yann Hodique <hodiquey@vmware.com>
 ENV REFRESHED_AT 11/26/2014
 
